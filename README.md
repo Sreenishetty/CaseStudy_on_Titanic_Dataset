@@ -1,1 +1,1 @@
-# CaseStudy_on_Titanic_Dataset
+# Titanic_Dataset
